@@ -26,3 +26,6 @@ MIT线性代数
 
 #### 第八节   求解Ax=b：可解性和解的结构
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/8%E3%80%81%E6%B1%82%E8%A7%A3Ax%3Db%EF%BC%8C%E5%8F%AF%E8%A7%A3%E6%80%A7%E5%92%8C%E8%A7%A3%E7%9A%84%E7%BB%93%E6%9E%84.pdf)
+
+#### 第九节   线性相关性、基、维数
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/9%E3%80%81%E7%BA%BF%E6%80%A7%E7%9B%B8%E5%85%B3%E6%80%A7%EF%BC%8C%E5%9F%BA%EF%BC%8C%E7%BB%B4%E6%95%B0.pdf)
