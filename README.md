@@ -33,5 +33,3 @@ MIT线性代数
 ### 第十节    四个基本子空间
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/10%E3%80%81%E5%9B%9B%E4%B8%AA%E5%9F%BA%E6%9C%AC%E5%AD%90%E7%A9%BA%E9%97%B4.pdf)
 
-#### 第三节   乘法和逆矩阵基本
-#### 第三节   乘法和逆矩阵
