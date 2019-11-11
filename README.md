@@ -33,5 +33,9 @@ MIT线性代数
 #### 第十节    四个基本子空间
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/10%E3%80%81%E5%9B%9B%E4%B8%AA%E5%9F%BA%E6%9C%AC%E5%AD%90%E7%A9%BA%E9%97%B4.pdf)
 
-### 第十一节   矩阵空间，秩1矩阵（不太懂哦听的） 
+#### 第十一节  矩阵空间，秩1矩阵（不太懂哦听的） 
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/11%E3%80%81%E7%9F%A9%E9%98%B5%E7%A9%BA%E9%97%B4%EF%BC%8C%E7%A7%A91%E7%9F%A9%E9%98%B5%EF%BC%8C%E5%B0%8F%E4%B8%96%E7%95%8C%E5%9B%BE.pdf)
+
+#### 第十二节课 图与网络
+这一节主要讲的是线性代数的应用，一个神奇的男人，用线性代数证明了基尔霍夫电流定律和欧拉公式，太神奇了
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/12%E3%80%81%E5%9B%BE%E5%92%8C%E7%BD%91%E7%BB%9C.pdf)
