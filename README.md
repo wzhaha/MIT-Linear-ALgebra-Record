@@ -45,3 +45,6 @@ MIT线性代数
 
 #### 第十三节课 复习一
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/13%E3%80%81%E5%A4%8D%E4%B9%A0%E4%B8%80.pdf)
+
+#### 第十四节课 正交向量与子空间
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/14%E3%80%81%E6%AD%A3%E4%BA%A4%E5%90%91%E9%87%8F%E4%B8%8E%E5%AD%90%E7%A9%BA%E9%97%B4.pdf)
