@@ -48,3 +48,9 @@ MIT线性代数
 
 #### 第十四节课 正交向量与子空间
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/14%E3%80%81%E6%AD%A3%E4%BA%A4%E5%90%91%E9%87%8F%E4%B8%8E%E5%AD%90%E7%A9%BA%E9%97%B4.pdf)
+
+#### 第十五节课 子空间投影
+这个原理可以用来求Ax=b无解时的最优解，具体的应用比如最小二乘法拟合，会在下一节课中讲到。
+
+
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/15%E3%80%81%E5%AD%90%E7%A9%BA%E9%97%B4%E6%8A%95%E5%BD%B1.pdf)
