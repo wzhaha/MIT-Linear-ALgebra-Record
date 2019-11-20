@@ -41,3 +41,7 @@ MIT线性代数
 
 
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/12%E3%80%81%E5%9B%BE%E5%92%8C%E7%BD%91%E7%BB%9C.pdf)
+
+
+#### 第十三节课 复习一
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/13%E3%80%81%E5%A4%8D%E4%B9%A0%E4%B8%80.pdf)
