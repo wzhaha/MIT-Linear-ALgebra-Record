@@ -54,3 +54,6 @@ MIT线性代数
 
 
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/15%E3%80%81%E5%AD%90%E7%A9%BA%E9%97%B4%E6%8A%95%E5%BD%B1.pdf)
+
+#### 第十六节课 投影矩阵和最小二乘法
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/16%E3%80%81%E6%8A%95%E5%BD%B1%E7%9F%A9%E9%98%B5%E5%92%8C%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95.pdf)
