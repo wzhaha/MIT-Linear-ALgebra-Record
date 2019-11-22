@@ -57,3 +57,10 @@ MIT线性代数
 
 #### 第十六节课 投影矩阵和最小二乘法
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/16%E3%80%81%E6%8A%95%E5%BD%B1%E7%9F%A9%E9%98%B5%E5%92%8C%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95.pdf)
+
+
+#### 第十七节 正交矩阵及正交化
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/17%E3%80%81%E6%AD%A3%E4%BA%A4%E7%9F%A9%E9%98%B5%E5%92%8CG%20S%E6%AD%A3%E4%BA%A4%E5%8C%96.pdf)
+
+#### 第十八节 行列式及其性质
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/18%E3%80%81%E8%A1%8C%E5%88%97%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8.pdf)
