@@ -64,3 +64,6 @@ MIT线性代数
 
 #### 第十八节 行列式及其性质
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/18%E3%80%81%E8%A1%8C%E5%88%97%E5%BC%8F%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8.pdf)
+
+### 第十九节 行列式公式和代数余子式
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/19%E3%80%81%E8%A1%8C%E5%88%97%E5%BC%8F%E5%85%AC%E5%BC%8F%E5%92%8C%E4%BB%A3%E6%95%B0%E4%BD%99%E5%AD%90%E5%BC%8F.pdf)
