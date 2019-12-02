@@ -70,3 +70,9 @@ MIT线性代数
 
 #### 第二十节 克拉默法则
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/20%E3%80%81%E5%85%8B%E6%8B%89%E9%BB%98%E6%B3%95%E5%88%99%EF%BC%8C%E9%80%86%E7%9F%A9%E9%98%B5%EF%BC%8C%E4%BD%93%E7%A7%AF.pdf)
+
+#### 第二十一节 特征值与特征向量
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/21%E3%80%81%E7%89%B9%E5%BE%81%E5%80%BC%E5%92%8C%E7%89%B9%E5%BE%81%E5%90%91%E9%87%8F.pdf)
+
+#### 第二十二节 对角化与A的幂
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/22%E3%80%81%E5%AF%B9%E8%A7%92%E5%8C%96%E5%92%8CA%E7%9A%84%E5%B9%82.pdf)
