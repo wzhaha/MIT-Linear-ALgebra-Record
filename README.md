@@ -76,3 +76,9 @@ MIT线性代数
 
 #### 第二十二节 对角化与A的幂
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/22%E3%80%81%E5%AF%B9%E8%A7%92%E5%8C%96%E5%92%8CA%E7%9A%84%E5%B9%82.pdf)
+
+#### 第二十三节 微分方程
+这一节听的稀里糊涂的，第二十二节就听的比较勉强，看这一节需要把二十二听的比较懂，主要是讲了用线性代数去求解微分方程组，这里有一个讲的比较好的案例: https://blog.csdn.net/qq_23940575/article/details/86619954
+
+
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/23%E3%80%81%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B.pdf)
