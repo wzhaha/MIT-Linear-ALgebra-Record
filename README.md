@@ -82,3 +82,6 @@ MIT线性代数
 
 
 [笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/23%E3%80%81%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B.pdf)
+
+#### 第二十三节 马尔可夫矩阵和傅里叶级数(特征值和特征向量的应用)
+[笔记地址](https://github.com/wzhaha/MIT-Linear-ALgebra-Record/blob/master/24%E3%80%81%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E7%9F%A9%E9%98%B5%EF%BC%8C%E5%82%85%E9%87%8C%E5%8F%B6%E7%BA%A7%E6%95%B0.pdf)
